@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I’m **Prashant**  
 
-<!--
-**prashant1926misra/prashant1926misra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 **DevOps Engineer** | Passionate about **automation, cloud, and continuous improvement**  
+🧩 10+ years bridging **TechOps ↔️ DevOps** by building solutions that connect infrastructure, automation, and delivery pipelines.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack & Tools
+- 🐳 **Docker**  
+- ☸️ **Kubernetes** & **OpenShift**  
+- ☁️ **AWS** & **GCP**  
+- ⚙️ **Terraform**  
+- 🔁 **Ansible**  
+- 🧪 **Jenkins**, 🦊 **GitLab CI/CD**, 🧰 **GitHub Actions**  
+- 🐍 **Python**  
+- 💻 **Linux**
+
+➡️ ...and many more! I regularly explore new tools, build **MVP projects (1–2 weeks)**, and take on **advanced, end-to-end projects** that span months — reflecting my continuous learning journey.  
+
+---
+
+## 🚀 Current Focus
+- Rapidly prototyping **MVP projects** to explore new DevOps tools and practices  
+- Developing **longer-term, advanced projects** that bring together automation, scalability, and intelligence  
+
+---
+
+## 🧠 Learning Philosophy
+> *“Continuous Integration of Skills, Continuous Deployment of Growth.”*
+
+---
+
+## 💡 Goal
+Designing **scalable, intelligent DevOps workflows** that evolve with modern technology.
