@@ -20,7 +20,7 @@
 ---
 
 ## 🚀 Current Focus
-- Rapidly prototyping **MVP projects** to explore new DevOps tools and practices  
+Rapidly prototyping **MVP projects** to explore new DevOps tools and practices  
 
 ---
 
