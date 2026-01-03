@@ -15,7 +15,7 @@
 - 🐍 **Python**  
 - 💻 **Linux**
 
-➡️ ...and many more! I regularly explore new tools, build **MVP projects (1–2 weeks)**, and take on **advanced, end-to-end projects** that span months — reflecting my continuous learning journey.  
+➡️ ...and many more! I regularly explore new tools and build **MVP projects** reflecting my continuous learning journey.  
 
 ---
 
