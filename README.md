@@ -21,7 +21,6 @@
 
 ## 🚀 Current Focus
 - Rapidly prototyping **MVP projects** to explore new DevOps tools and practices  
-- Developing **longer-term, advanced projects** that bring together automation, scalability, and intelligence  
 
 ---
 
